@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cambiá acá los dos horarios. Zonas IANA:
+     https://en.wikipedia.org/wiki/List_of_tz_database_time_zones -->
+<resources>
+    <string name="nombre_1">Buenos Aires</string>
+    <string name="zona_1" translatable="false">America/Argentina/Buenos_Aires</string>
+
+    <string name="nombre_2">Madrid</string>
+    <string name="zona_2" translatable="false">Europe/Madrid</string>
+</resources>
